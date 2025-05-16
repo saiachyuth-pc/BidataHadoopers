@@ -1,6 +1,6 @@
 # BidataHadoopers
 IMDb Movie Ratings Analysis Using Hadoop
-This project analyzes IMDb movie data using Hadoop MapReduce to:
+/nThis project analyzes IMDb movie data using Hadoop MapReduce to:
 
 Identify the Top 10 Highest-Rated Movies
 Determine the Most-Rated Movie Genres
